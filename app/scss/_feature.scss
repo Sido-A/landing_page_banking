@@ -1,0 +1,22 @@
+.feature {
+  &__grid {
+    @include breakpoint-bigger-than(large) {
+      display: flex;
+    }
+  }
+
+  &__item {
+    @include breakpoint-bigger-than(large) {
+      flex: 1;
+    }
+  }
+
+  &__icon {
+  }
+
+  &__title {
+  }
+
+  &__description {
+  }
+}
