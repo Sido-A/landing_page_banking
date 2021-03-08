@@ -1,6 +1,9 @@
 # Banking lading page
 
-Design from [Frontend Mentor](https://www.frontendmentor.io) 
+Design from [Frontend Mentor](https://www.frontendmentor.io) <br/>
+<br/>
+<br/>
+[Click here to the page](https://sido-a.github.io/landing_page_banking/.)
 
 ## `Pages`
 
